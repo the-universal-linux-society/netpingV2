@@ -15,14 +15,7 @@ It uses the ping command-line utility available on most Unix-like systems to sen
 
 ### Usage: 
 
-To use the script, simply run it with Ruby and specify the host name and optional count of pings:
->ruby netpingV2.rb <host> [count]
-
-For example:
-
->ruby netpingV2.rb google.com 4
-
-This will ping 'google.com' four times by default.
+To use the script, simply run it with Ruby after modifying the script with the required information:
 
 ### Requirements: 
 
