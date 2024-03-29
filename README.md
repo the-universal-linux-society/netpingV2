@@ -15,7 +15,7 @@ It uses the ping command-line utility available on most Unix-like systems to sen
 
 ### Usage: 
 
-To use the script, simply run it with Ruby after modifying the script with the required information:
+To use the script, simply run it with Ruby after modifying the script with the required server/email information.
 
 ### Requirements: 
 
