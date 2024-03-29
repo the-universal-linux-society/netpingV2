@@ -1,3 +1,4 @@
+#! /bin/ruby
 require 'socket'
 require 'net/smtp'
 
