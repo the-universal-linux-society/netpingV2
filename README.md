@@ -29,4 +29,5 @@ This will ping 'google.com' four times by default.
 ### Notes: 
 If you encounter any issues, let me know asap.
 
+![ruby](https://github.com/the-universal-linux-society/netpingV2/assets/161962528/d350c5a7-6eb0-46d2-8ec3-3d2cd991a598)
 
